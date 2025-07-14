@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.bak
+*.tmp
+*.log
+
+# AutoCAD / SolidWorks backup files
+*.swp
+*.asd
+
+# Office temp
+~$*
+
+# macOS + Windows hidden files
+._*
